@@ -7,7 +7,7 @@ This repository contains Hass.io add-ons. All add-ons in this repository are tes
 ### Installation
 1. Navigate in your Home Assistant frontend to <kbd>Supervisor</kbd> -> <kbd>Add-on Store</kbd>.
 
-2. Click the 3-dots menu at upper right <kbd>...</kbd> > <kbd>Repositories</kbd> and add this repository's URL: [https://github.com/MatterVN/HassioAddon](https://github.com/MatterVN/HassioAddon)
+2. Click the 3-dots menu at upper right <kbd>...</kbd> > <kbd>Repositories</kbd> and add this repository's URL: [https://github.com/benborra/HassioAddon](https://github.com/benborra/HassioAddon)
 
    <img src="images/add_repo.png" width="300"/>
 
